@@ -21,6 +21,10 @@ _paginate: false
 
 ---
 
+![bg fit](./assets/img/kurume.png)
+
+---
+
 ![bg fit](./assets/img/IMG_4439.jpeg)
 
 ---
@@ -50,6 +54,12 @@ _paginate: false
 ---
 
 ![bg fit](./assets/img/IMG_4378.jpeg)
+
+---
+
+# プログラミングコンテスト 受賞作品一覧
+
+https://dojocon2025.coderdojo.jp/contests/winners/
 
 ---
 
@@ -101,6 +111,10 @@ _paginate: false
 
 ---
 
+![bg fit](./assets/img/Screenshot%202025-10-29%20at%2013.15.53.png)
+
+---
+
 ![bg fit](./assets/img/IMG_4436.jpeg)
 
 ---
@@ -113,11 +127,34 @@ _paginate: false
 
 ---
 
-![bg fit](./assets/img/IMG_4448.jpeg)
+## CoderDojo のオープンデータが、デジタル庁が推進する地域の Well-Being 指標のデジタル生活指数に採用
+
+![width:800px](./assets/img/kpi.png)
+
+<style scoped>
+img {
+  display: block;
+  margin: 0 auto;
+}
+</style>
 
 ---
 
-![bg fit](./assets/img/IMG_4449.jpeg)
+![bg fit](./assets/img/coolest_projects.png)
+
+---
+
+![bg fit](./assets/img/technovation_girls.png)
+
+---
+
+# CoderDojo 磐田 としてできることは支援します
+
+# でてみよっかな。。。という人は是非ご相談ください！
+
+---
+
+# 久留米滞在記録
 
 ---
 
@@ -133,15 +170,7 @@ _paginate: false
 
 ---
 
-![bg fit](./assets/img/IMG_4307.jpeg)
-
----
-
-![bg fit](./assets/img/IMG_4311.jpeg)
-
----
-
-![bg fit](./assets/img/IMG_4312.jpeg)
+![bg fit](./assets/img/bridgestone.png)
 
 ---
 
@@ -149,7 +178,11 @@ _paginate: false
 
 ---
 
-![bg fit](./assets/img/IMG_4459.jpeg)
+![bg fit](./assets/img/IMG_4480.jpeg)
+
+---
+
+![bg fit](./assets/img/IMG_4478.jpeg)
 
 ---
 
@@ -178,14 +211,6 @@ _paginate: false
 ---
 
 ![bg fit](./assets/img/IMG_4477.jpeg)
-
----
-
-![bg fit](./assets/img/IMG_4480.jpeg)
-
----
-
-![bg fit](./assets/img/IMG_4478.jpeg)
 
 ---
 
