@@ -9,15 +9,33 @@ _paginate: false
 
 ![width:900px](./assets/img/title.png)
 
-<!-- ![width:600px](./assets/img/inspire_next.png) -->
-
 # 第 30 回 CoderDojo 磐田
 
 # DojoCon Japan 2025 参加レポート
 
 ---
 
+![bg fit opacity:.3](./assets/img/inspire_next.png)
+
+## DojoCon Japan とは
+
+### CoderDojo に関わる / 関わりたいみんなのイベント！
+
+> DojoCon Japan とは日本の CoderDojo コミュニティメンバーが全国から集まる、
+> 年に 1 度のカンファレンスイベント(CoderDojo Conference) です。
+> 2016 年に始まり、2025 年は福岡県久留米市にて開催します。
+
+参考: [DojoCon Japan 2025](https://dojocon2025.coderdojo.jp/)
+
+---
+
 ![bg fit](./assets/img/inspire_next.png)
+
+---
+
+## [こちら](https://www.youtube.com/playlist?list=PL_XgRvFvKBPY9xDNup3tV_qlnXFzu_lL_)から視聴できます！
+
+![](./assets/img/dojocon_playlist.png)
 
 ---
 
@@ -37,19 +55,7 @@ _paginate: false
 
 ---
 
-![bg fit](./assets/img/IMG_4362.jpeg)
-
----
-
 ![bg fit](./assets/img/IMG_4368.jpeg)
-
----
-
-![bg fit](./assets/img/IMG_4374.jpeg)
-
----
-
-![bg fit](./assets/img/IMG_4375.jpeg)
 
 ---
 
@@ -57,7 +63,13 @@ _paginate: false
 
 ---
 
+![bg fit](./assets/img/IMG_4397.jpeg)
+
+---
+
 # プログラミングコンテスト 受賞作品一覧
+
+自分の手元で動かせる作品もあります！
 
 https://dojocon2025.coderdojo.jp/contests/winners/
 
@@ -75,23 +87,7 @@ https://dojocon2025.coderdojo.jp/contests/winners/
 
 ---
 
-![bg fit](./assets/img/IMG_4386.jpeg)
-
----
-
-![bg fit](./assets/img/IMG_4392.jpeg)
-
----
-
-![bg fit](./assets/img/IMG_4396.jpeg)
-
----
-
-![bg fit](./assets/img/IMG_4397.jpeg)
-
----
-
-![bg fit](./assets/img/IMG_4398.jpeg)
+![bg fit](./assets/img/IMG_4374.jpeg)
 
 ---
 
@@ -104,6 +100,14 @@ https://dojocon2025.coderdojo.jp/contests/winners/
 ---
 
 ![bg fit](./assets/img/IMG_4402.jpeg)
+
+---
+
+![bg fit](./assets/img/IMG_4386.jpeg)
+
+---
+
+![bg fit](./assets/img/IMG_4392.jpeg)
 
 ---
 
@@ -140,20 +144,6 @@ img {
 
 ---
 
-![bg fit](./assets/img/coolest_projects.png)
-
----
-
-![bg fit](./assets/img/technovation_girls.png)
-
----
-
-# CoderDojo 磐田 としてできることは支援します
-
-# でてみよっかな。。。という人は是非ご相談ください！
-
----
-
 # 久留米滞在記録
 
 ---
@@ -186,36 +176,24 @@ img {
 
 ---
 
-![bg fit](./assets/img/IMG_4465.jpeg)
+# お知らせ
 
 ---
 
-![bg fit](./assets/img/IMG_4473.jpeg)
+![bg fit](./assets/img/coolest_projects.png)
 
 ---
 
-![bg fit](./assets/img/IMG_4474.jpeg)
+![bg fit](./assets/img/technovation_girls.png)
 
 ---
 
-![bg fit](./assets/img/IMG_4461.jpeg)
+# 伝えたいこと
 
 ---
 
-![bg fit](./assets/img/IMG_4462.jpeg)
+# 県外（圏外）のイベントに参加しよう
 
----
+# 作品を応募しよう
 
-![bg fit](./assets/img/IMG_4476.jpeg)
-
----
-
-![bg fit](./assets/img/IMG_4477.jpeg)
-
----
-
-![bg fit](./assets/img/IMG_4483.jpeg)
-
----
-
-![bg fit](./assets/img/IMG_4489.jpeg)
+# CoderDojo 磐田 としてできることは支援します！
