@@ -1,15 +1,15 @@
 ---
 marp: true
-lang: en-US
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+lang: ja-JP
+title: DojoCon Japan 2025 参加レポート
+description: 写真で振り返る現地レポート
 paginate: true
 _paginate: false
 ---
 
 ![width:900px](./assets/img/title.png)
 
-# 第 30 回 CoderDojo 磐田
+# 第 30 回 CoderDojo 磐田 (2025/11/9)
 
 # DojoCon Japan 2025 参加レポート
 
@@ -99,10 +99,6 @@ https://dojocon2025.coderdojo.jp/contests/winners/
 
 ---
 
-![bg fit](./assets/img/IMG_4402.jpeg)
-
----
-
 ![bg fit](./assets/img/IMG_4386.jpeg)
 
 ---
@@ -128,19 +124,6 @@ https://dojocon2025.coderdojo.jp/contests/winners/
 ---
 
 ![bg fit](./assets/img/IMG_4447.jpeg)
-
----
-
-## CoderDojo のオープンデータが、デジタル庁が推進する地域の Well-Being 指標のデジタル生活指数に採用
-
-![width:800px](./assets/img/kpi.png)
-
-<style scoped>
-img {
-  display: block;
-  margin: 0 auto;
-}
-</style>
 
 ---
 
@@ -176,24 +159,12 @@ img {
 
 ---
 
-# お知らせ
-
----
-
-![bg fit](./assets/img/coolest_projects.png)
-
----
-
-![bg fit](./assets/img/technovation_girls.png)
-
----
-
 # 伝えたいこと
 
 ---
 
-# 県外（圏外）のイベントに参加しよう
+# 外部イベントに参加（できれば応募）しよう
 
-# 作品を応募しよう
+# 現地で楽しもう
 
 # CoderDojo 磐田 としてできることは支援します！
