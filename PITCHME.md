@@ -9,9 +9,11 @@ _paginate: false
 
 ![width:900px](./assets/img/title.png)
 
-# 第 30 回 CoderDojo 磐田 (2025/11/9)
-
 # DojoCon Japan 2025 参加レポート
+
+# 第 30 回 CoderDojo 磐田
+
+## 2025/11/9 (日)
 
 ---
 
